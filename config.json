@@ -1,0 +1,47 @@
+{
+    "ip": "192.168.82.93",
+    "port": "502",
+    "password": "admin",
+    "buttons": {
+        "1": {
+            "do_subir": "0",
+            "do_descer": "1",
+            "tempo": "5"
+        },
+        "2": {
+            "do_subir": "2",
+            "do_descer": "3",
+            "tempo": "120"
+        },
+        "3": {
+            "do_subir": "",
+            "do_descer": "",
+            "tempo": ""
+        },
+        "4": {
+            "do_subir": "",
+            "do_descer": "",
+            "tempo": ""
+        },
+        "5": {
+            "do_subir": "",
+            "do_descer": "",
+            "tempo": ""
+        },
+        "6": {
+            "do_subir": "",
+            "do_descer": "",
+            "tempo": ""
+        },
+        "7": {
+            "do_subir": "",
+            "do_descer": "",
+            "tempo": ""
+        },
+        "8": {
+            "do_subir": "",
+            "do_descer": "",
+            "tempo": ""
+        }
+    }
+}
